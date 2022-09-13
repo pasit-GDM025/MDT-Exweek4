@@ -1,0 +1,15 @@
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\bin\Debug\net6.0\Ex1.exe
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\bin\Debug\net6.0\Ex1.deps.json
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\bin\Debug\net6.0\Ex1.runtimeconfig.json
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\bin\Debug\net6.0\Ex1.dll
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\bin\Debug\net6.0\Ex1.pdb
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\obj\Debug\net6.0\Ex1.csproj.AssemblyReference.cache
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\obj\Debug\net6.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\obj\Debug\net6.0\Ex1.AssemblyInfoInputs.cache
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\obj\Debug\net6.0\Ex1.AssemblyInfo.cs
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\obj\Debug\net6.0\Ex1.csproj.CoreCompileInputs.cache
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\obj\Debug\net6.0\Ex1.dll
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\obj\Debug\net6.0\refint\Ex1.dll
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\obj\Debug\net6.0\Ex1.pdb
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\obj\Debug\net6.0\Ex1.genruntimeconfig.cache
+D:\Works\GDMY2\CODEY2\Ex-practice\MDTEx-week4\Ex1\obj\Debug\net6.0\ref\Ex1.dll
